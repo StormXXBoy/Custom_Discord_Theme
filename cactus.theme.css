@@ -5,7 +5,7 @@
 .avatar-2e8lTP[src*="559077022287265815"] ~ h3 span[class*="username-h_Y3Us"] {
     visibility: visible;
     font-size: 17px;
-    background: linear-gradient(to right, #cca6ff, #ff00a6);
+    background: linear-gradient(to right, #8a36f7, #ff00a6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
